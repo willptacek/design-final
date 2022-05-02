@@ -1,0 +1,16 @@
+online gallery is an entirely virtual gallery designed to replicate the classical experience.
+
+the experience is intended to be as minimal and barebones as possible, as one would expect in a brick and mortar art gallery.
+inside of an actual gallery, one expects nothing else than 4 white walls, a desk, a chair, and the art.  
+the physical design of the modern gallery space has been refined into this minimal product
+
+online gallery tries to replicate this extremely basic design by using extremely basic web design, also known as brutalist web design.
+we use the standard html font, courier new, with minimal styling on our components. 
+visually, the only non black and white elements of the gallery are the paintings themselves.
+the titles of the paintings are the file names used to reference them in the code, showing that they are just images.
+
+we have enter and leave buttons to simulate entering and leaving a physical space.
+this press release is only available on the home page; the reader can only access it after or before viewing the paintings so as not to distract them.
+presented as text files with minimal formatting, the standard checklist/press release is also barebones and brutalist to let the site itself to the talking.
+
+primarily, this is designed for me, will ptacek, to have full control of a gallery show without having to invest any money in an actual space.
